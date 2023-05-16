@@ -91,10 +91,10 @@ export const info = {
     },
 
     {
-      title: "Si, este portfolio",
+      title: "Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/cv-resume.svg",
-      githubUrl: "https://github.com/mati-com",
+      githubUrl: "https://github.com/mati-com/mati-portfolio",
     },
   ],
 };
