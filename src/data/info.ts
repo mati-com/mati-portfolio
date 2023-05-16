@@ -1,14 +1,14 @@
 export const info = {
-  baseUrl: "https://github.com/mati-com",
+  baseUrl: "https://mati-portfolio.vercel.app/",
   name: "Matias Ramirez",
   jobDescription: "Analista de Sistema | Programador",
-  about: `Técnico superior en análisis de sistemas con una experiencia de 2 años como como soporte técnico. Sin embargo, mi pasión me ha llevado a adentrarme en el mundo de la programación, deseando aprovechar todas las oportunidades para crecer y expandir mis conocimientos en este campo en constante evolución. Estoy entusiasmado por colaborar en proyectos interesantes y aportar mi entusiasmo, dedicación y habilidades al equipo. Mi objetivo es seguir aprendiendo y creciendo profesionalmente. 😀  
+  about: `Técnico superior en análisis de sistemas con 2 años de experiencia como soporte técnico. Trabajé en un pequeño equipo encargado del seguimiento de los equipos informáticos, mantenimiento, documentación y relevamiento de requerimientos. Sin embargo, mi pasión me ha llevado a adentrarme en el mundo de la programación, aprovechando todas las oportunidades para expandir mis conocimientos en este campo en constante evolución. Estoy entusiasmado por colaborar en proyectos interesantes, aportando mi pasión, dedicación y habilidades al equipo. Mi objetivo es seguir aprendiendo y continuar creciendo profesionalmente. 😀  
   `,
 
   experience: [
 
     {
-      name: "Reparación de Equipos Informáticos (Freelancer).",
+      name: "Reparación de Equipos Informáticos | Freelancer.",
       location: "Formosa, Argentina",
       startDate: "May 2020",
       endDate: "Presente",
@@ -21,7 +21,7 @@ export const info = {
     },
 
     {
-      name: "Instituto Argentino de Computación (IAC)",
+      name: "Soporte Técnico | I.A.C",
       location: "Formosa, Argentina",
       startDate: "Feb 2018",
       endDate: "Mzo 2020",
@@ -33,22 +33,22 @@ export const info = {
       ],
     },
   ],
-
   education: [
     {
-      name: "Instituto Superior de Informática Virasoro (ISIV)",
+      name: "Técnico Superior en Análisis de Sistemas | I.S.I.V ",
       location: "Misiones, Argentina",
       startDate: "Mar 2020",
       endDate: "Dic 2022",
       description: [
-        "Técnico Superior en Análisis de Sistemas",
-        "‎ ",
-        "· Conocimiento en redes.",
+        ". Programación",
+        "· Redes Informáticas.",
+        "· Sistemas de bases de datos",
+        "· Metodologías de desarrollo de software.",
         "· Análisis y diseño de sistemas informáticos.",
-        "· Comprensión de las metodologías de desarrollo de software.",
       ],
     },
 
+    /*
     {
       name: "Escuela Provincial Educación Secundaria Nº 3 'Enrique de Ibarreta'",
       location: "Ibarreta, Formosa, Argentina",
@@ -56,6 +56,7 @@ export const info = {
       endDate: "Dic 2018",
       description: ["Bachillerato en Ciencias Naturales"],
     },
+    */
   ],
 
   socialMedia: {
