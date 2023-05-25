@@ -96,5 +96,13 @@ export const info = {
       thumbnail: "/assets/images/cv-resume.svg",
       githubUrl: "https://github.com/mati-com/mati-portfolio",
     },
+
+    {
+      title: "Wiki | Blog",
+      isFeatured: true,
+      thumbnail: "/assets/images/wikimatipersonal.svg",
+      githubUrl:"https://github.com/mati-com/WikiMatiPersonal",
+      
+    }
   ],
 };
