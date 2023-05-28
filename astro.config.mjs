@@ -4,7 +4,7 @@ import robotsTxt from "astro-robots-txt";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://mati-com.vercel.app",
+  site: "https://mati-portfolio.vercel.app/",
   integrations: [
     tailwind(),
     sitemap({
