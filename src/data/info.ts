@@ -47,16 +47,6 @@ export const info = {
         "· Análisis y diseño de sistemas informáticos.",
       ],
     },
-
-    /*
-    {
-      name: "Escuela Provincial Educación Secundaria Nº 3 'Enrique de Ibarreta'",
-      location: "Ibarreta, Formosa, Argentina",
-      startDate: "Mar 2013",
-      endDate: "Dic 2018",
-      description: ["Bachillerato en Ciencias Naturales"],
-    },
-    */
   ],
 
   socialMedia: {
@@ -68,6 +58,15 @@ export const info = {
   },
 
   projects: [
+
+    {
+      title: "Wiki | Blog",
+      isFeatured: true,
+      thumbnail: "/assets/images/wikimatipersonal.svg",
+      githubUrl:"https://github.com/mati-com/WikiMatiPersonal",
+
+    },
+
     {
       title: "DecodeThisChallenge",
       isFeatured: true,
@@ -82,6 +81,13 @@ export const info = {
       thumbnail: "/assets/images/golang.svg",
       githubUrl: "https://github.com/mati-com/go-cli",
     },
+
+    {
+      title: "Si. Este Portfolio",
+      isFeatured: true,
+      thumbnail: "/assets/images/cv-resume.svg",
+      githubUrl: "https://github.com/mati-com/mati-portfolio",
+    },
     
     {
       title: "Caline",
@@ -89,20 +95,5 @@ export const info = {
       thumbnail: "/assets/images/caline.svg",
       githubUrl: "https://github.com/mati-com/caline",
     },
-
-    {
-      title: "Portfolio",
-      isFeatured: true,
-      thumbnail: "/assets/images/cv-resume.svg",
-      githubUrl: "https://github.com/mati-com/mati-portfolio",
-    },
-
-    {
-      title: "Wiki | Blog",
-      isFeatured: true,
-      thumbnail: "/assets/images/wikimatipersonal.svg",
-      githubUrl:"https://github.com/mati-com/WikiMatiPersonal",
-      
-    }
   ],
 };
